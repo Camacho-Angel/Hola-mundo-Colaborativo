@@ -16,3 +16,4 @@
   Barbie=Diagrama de clases
   
 -En total en toda esta practica debemos de mostrar un hola mundo en los diferentes paradigamas de programación que hemos utilizado.
+La parte de Programacion estructurada fue subida por Jessica De la Cruz desde la cuenta de Barbara Sofia ya que su cuenta se bloqueo por exceso de intentos de contraseñas.
